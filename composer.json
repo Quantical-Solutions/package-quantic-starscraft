@@ -1,0 +1,31 @@
+{
+  "name": "quantic/starscraft",
+  "type": "library",
+  "description": "Quantic Framework starscraft",
+  "keywords": ["quantic","starscraft"],
+  "homepage": "https://github.com/Quantical-Solutions/package-quantic-starscraft",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Frédéric Geffray",
+      "email": "in-touch-fg@quanticalsolutions.com",
+      "homepage": "https://quanticalsolutions.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Quantic\\StarsCraft\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Quantic\\StarsCraft\\Tests": "tests/"
+    }
+  },
+  "minimum-stability": "stable"
+}
