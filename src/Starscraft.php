@@ -1,10 +1,10 @@
 <?php
 
-namespace Quantic\StarsCraft\StarsCraft;
+namespace Quantic\StarsCraft;
 
-class Ignite
+class StarsCraft
 {
-    public function __construct()
+    public static function ignite()
     {
         return 'test';
     }
