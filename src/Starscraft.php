@@ -6,6 +6,6 @@ class StarsCraft
 {
     public function __construct()
     {
-        //
+        return 'test';
     }
 }
