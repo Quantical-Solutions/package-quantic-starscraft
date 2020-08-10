@@ -1,6 +1,6 @@
 <?php
 
-namespace Quantic\StarsCraft;
+namespace Quantic\StarsCraft\Launcher;
 
 class StarsCraft
 {
