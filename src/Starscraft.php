@@ -1,8 +1,8 @@
 <?php
 
-namespace Quantic\StarsCraft\Launcher;
+namespace Quantic\StarsCraft\StarsCraft;
 
-class StarsCraft
+class Ignite
 {
     public function __construct()
     {
